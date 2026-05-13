@@ -1,14 +1,5 @@
 ## 안녕하세요 👋
 
-<p align="center"><strong>Participated in K-Shield Junior 13th Vulnerability Analysis Course. (2024.08~2024.10) <br>
-  Also completed a one-month hands-on internship in security consulting. (2024.11~2024.12) <br>
-  Graduated from the Department of Software at Hallym University in February 2025 <br>
-  Currently participating in SK Shieldus Rookies 26th program. (2025.07~ing) <br><br>
-  Completed a capstone project developing a web/app for meal planning and recommendations for nutritionists, <br>
-  and a K-Shield Junior project creating a security CTF-based educational app. <br><br>
-  Currently preparing for the practical exams of the Information Processing Engineer and Linux Master Level 2 certifications.<br>
-  Also planning to take the written exam for the Information Security Engineer certification.</strong></p>
-
 <!--
 **SWSH01/SWSH01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
